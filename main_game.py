@@ -10,7 +10,7 @@ print("---ROCK---SCISSORS---PAPER---\n"
       "\n\t5 - Quit the game."
       "\n\nPlease use only these options (from 1 to 5), "
       "\notherwise the program will return an error! ")
-
+# I write this comment just to check if i see it also on GitHub
 
 def get_choices():
     """Function for getting the results of user and computer choices"""
