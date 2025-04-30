@@ -26,7 +26,7 @@ The game provides a user-friendly interface for making selections and keeps trac
 - **Paper** beats **Rock**
 - If both choices are the same, it's a **draw**.
 
-## Example Output
+## Example Usage
 ```
 ---ROCK---SCISSORS---PAPER---
 
